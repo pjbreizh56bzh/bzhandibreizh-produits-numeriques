@@ -1,5 +1,7 @@
 # Produits numériques BZHandiBreizh
 
+Un projet [BZHandiBreizh](https://pjbreizh56bzh.github.io/ia-viral-site/) — retrouvez tous nos guides et outils.
+
 Catalogue de 15 guides et kits PDF sur l'automatisation IA (n8n, Notion, Claude AI) et les
 démarches d'indépendant en France. Vente par virement bancaire : cliquez sur un produit
 pour ouvrir un e-mail de commande pré-rempli, vous recevez l'IBAN par retour de mail et le
