@@ -7,6 +7,10 @@ démarches d'indépendant en France. Vente par virement bancaire : cliquez sur u
 pour ouvrir un e-mail de commande pré-rempli, vous recevez l'IBAN par retour de mail et le
 PDF est envoyé dès réception du virement.
 
+> ℹ️ Les liens ci-dessous ouvrent votre application e-mail. Si rien ne s'ouvre (cas
+> fréquent avec Gmail dans le navigateur), écrivez directement à **pjbreizh56bzh@gmail.com**
+> en précisant le produit souhaité.
+
 ## Catalogue
 
 | # | Produit | Prix | Contenu |
